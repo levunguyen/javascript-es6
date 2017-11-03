@@ -17,8 +17,7 @@
 
 1. Default Parameters in ES6
 
-'''javascript
-var link = function(height = 50, color = 'red', url = 'http://lcf') {
+var link = function(height = 50, color = 'red', url = 'http://levunguyen') {
   
 }
-'''
+
