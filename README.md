@@ -12,3 +12,11 @@
 8. Block-Scoped Constructs Let and Cont
 9. Classes in ES6
 10. Modules in ES6
+
+#### Noi dung chi tiet
+1. Default Parameters in ES6
+'''javascript
+var link = function(height = 50, color = 'red', url = 'http://lcf') {
+  
+}
+'''
