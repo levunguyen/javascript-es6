@@ -14,7 +14,9 @@
 10. Modules in ES6
 
 #### Noi dung chi tiet
+
 1. Default Parameters in ES6
+
 '''javascript
 var link = function(height = 50, color = 'red', url = 'http://lcf') {
   
