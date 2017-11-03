@@ -17,7 +17,11 @@
 
 1. Default Parameters in ES6
 
-var link = function(height = 50, color = 'red', url = 'http://levunguyen') {
-  
-}
+  var link = function(height = 50, color = 'red', url = 'http://levunguyen') {
+                    do something
+              }
 
+2. Template Literals in ES6
+
+Template Literals hay interpolation trong các ngôn ngữ khác là một cách hiển thị các biến trong chuỗi
+  var name = `Your name is ${first} ${last}.`
