@@ -13,7 +13,7 @@
 9. Classes in ES6
 10. Modules in ES6
 
-#### Noi dung chi tiet
+#### Details 
 
 1. Default Parameters in ES6
 
@@ -33,5 +33,5 @@
    
    Trong ES6, chỉ cần sử dụng dấu backticks `
    
-   var fourAgreements = *`* You have the right to be you.
+   var fourAgreements = \` You have the right to be you \`
    You can only be you when you do your best. *`*
